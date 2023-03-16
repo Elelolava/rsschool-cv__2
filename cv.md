@@ -19,6 +19,9 @@ Codewars task «Power of two»: write a function that determines whether a given
 let isPowerOfTwo = (n) => n === 0 ? false : n === 1 ? true : n%2 !== 0 ? false : n === 2**Math.log2(n) ? true : false
 ```
 
+## Projects  
+- [rsschool-cv](https://github.com/Elelolava/rsschool-cv/blob/gh-pages/cv.md)  
+
 ## Courses  
 * [RS School](https://rs.school/) course "Java Script/Front-end" (in progress)  
 
